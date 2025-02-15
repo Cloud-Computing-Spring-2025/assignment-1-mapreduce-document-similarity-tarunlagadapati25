@@ -1,0 +1,4 @@
+doc1    hadoop is a distributed is  system and it is used for is  storing large and  datasets and 
+doc2    hadoop is used for big data processing  is and is and many companies use it for analytics and is and 
+doc3    big data is important for analysis is and is processing large datasets is essential is and is 
+
